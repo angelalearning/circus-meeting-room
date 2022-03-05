@@ -1,0 +1,11 @@
+Model Information:
+* title:	Circus Ring
+* source:	https://sketchfab.com/3d-models/circus-ring-7896ba80ad3948f8a64b74ec7f6536ee
+* author:	rubycinnamon (https://sketchfab.com/rubycinnamon)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Circus Ring" (https://sketchfab.com/3d-models/circus-ring-7896ba80ad3948f8a64b74ec7f6536ee) by rubycinnamon (https://sketchfab.com/rubycinnamon) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
