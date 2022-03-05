@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trampoline
+* source:	https://sketchfab.com/3d-models/trampoline-fa137911ee274a5697d2573b93d588d1
+* author:	321_Blender (https://sketchfab.com/321_Blender)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trampoline" (https://sketchfab.com/3d-models/trampoline-fa137911ee274a5697d2573b93d588d1) by 321_Blender (https://sketchfab.com/321_Blender) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
